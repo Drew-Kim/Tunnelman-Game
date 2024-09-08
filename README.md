@@ -8,8 +8,10 @@ The gold nuggets provide more points while the sonar is used (pressing the z key
 is used (by pressing the spacebar) to splash an enemy directly in front of the player to either stun or eliminate them. Boulders in the ground
 have gravity and can either kill the enemy or the player by crushing them.  
 
-To move: arrow keys
+To move: arrow keys or WASD
+
 Splash: spacebar
+
 Sonar: z key
 
 
